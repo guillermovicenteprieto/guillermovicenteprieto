@@ -1,6 +1,6 @@
-- I am interested in programming and web development
+- I am interested in Programming and Web Development
 
-- Training in Full Stack Web Developer at CODER HOUSE
+- Training in Full Stack Web Developer at CODER HOUSE (https://www.coderhouse.com)
 
 - I am currently studying React Js.
 
